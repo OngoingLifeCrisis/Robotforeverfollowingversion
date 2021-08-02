@@ -5,7 +5,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "Robot": "github:ongoinglifecrisis/robotv2github#master"
     },
     "files": [
         "README.md",
